@@ -1,4 +1,4 @@
-# T8E Hypertree
+# leanSPHINCS Hypertree
 
 Paper-style figure, parameter table and animated verification of the hypertree in sig.golf submission a89db44d ([Layr-Labs/sig.golf#819](https://github.com/Layr-Labs/sig.golf/pull/819)): 5,312 bytes × 7,337 cycles.
 
